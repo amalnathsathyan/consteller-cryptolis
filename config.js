@@ -1,3 +1,5 @@
-export const nftmarketaddress = "0x281a49413A7a086B89512DB54C2e47a6c0B39314"
-export const nftaddress = "0x1B5d18991D2102b5ced492335f543402b2cB2fB1"
+// these values are to be changed after deployement. Replace it with your deployed contract addresses
+
+export const nftmarketaddress = "NFT market contract address"
+export const nftaddress = "nft contract address"
 export const rpc_url = "https://rpc-mumbai.maticvigil.com/"
