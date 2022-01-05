@@ -5,7 +5,7 @@ const fs = require('fs')
 const privateKey = '7c2a20f75203ed27912f1dfd07a74ad09df38a8abe84f2d80cba96343d573f48';
 
 module.exports = {
-  //defaultNetwork: "hardhat",
+  defaultNetwork: "hardhat",
 networks: {
     hardhat: {
       chainId: 1337

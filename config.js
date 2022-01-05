@@ -1,3 +1,3 @@
-export const nftmarketaddress = "0x8Be503bcdEd90ED42Eff31f56199399B2b0154CA"
-export const nftaddress = "0x47c5e40890bcE4a473A49D7501808b9633F29782"
+export const nftmarketaddress = "0x281a49413A7a086B89512DB54C2e47a6c0B39314"
+export const nftaddress = "0x1B5d18991D2102b5ced492335f543402b2cB2fB1"
 export const rpc_url = "https://rpc-mumbai.maticvigil.com/"
